@@ -29,7 +29,7 @@ class _HomePageState extends State<HomePage> {
       backgroundColor: const Color(0xFFF5F5F5),
       appBar: AppBar(
         title: Text(
-          "တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း",
+          "MM Matriculation Exam Results",
           style: Theme.of(context).textTheme.titleLarge?.copyWith(color: Colors.white, fontWeight: FontWeight.w600),
         ),
         backgroundColor: Colors.green,
